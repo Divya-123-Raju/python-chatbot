@@ -1,0 +1,118 @@
+Unnamed: 0,question,answer,cleaned_question
+0.0,"hi, how are you doing?",i'm fine. how about yourself?,hi how are you doing
+1.0,i'm fine. how about yourself?,i'm pretty good. thanks for asking.,im fine how about yourself
+2.0,i'm pretty good. thanks for asking.,no problem. so how have you been?,im pretty good thanks for asking
+3.0,no problem. so how have you been?,i've been great. what about you?,no problem so how have you been
+4.0,i've been great. what about you?,i've been good. i'm in school right now.,ive been great what about you
+5.0,i've been good. i'm in school right now.,what school do you go to?,ive been good im in school right now
+6.0,what school do you go to?,i go to pcc.,what school do you go to
+7.0,i go to pcc.,do you like it there?,i go to pcc
+8.0,do you like it there?,it's okay. it's a really big campus.,do you like it there
+9.0,it's okay. it's a really big campus.,good luck with school.,its okay its a really big campus
+10.0,good luck with school.,thank you very much.,good luck with school
+11.0,how's it going?,i'm doing well. how about you?,hows it going
+12.0,i'm doing well. how about you?,"never better, thanks.",im doing well how about you
+13.0,"never better, thanks.",so how have you been lately?,never better thanks
+14.0,so how have you been lately?,i've actually been pretty good. you?,so how have you been lately
+15.0,i've actually been pretty good. you?,i'm actually in school right now.,ive actually been pretty good you
+16.0,i'm actually in school right now.,which school do you attend?,im actually in school right now
+17.0,which school do you attend?,i'm attending pcc right now.,which school do you attend
+18.0,i'm attending pcc right now.,are you enjoying it there?,im attending pcc right now
+19.0,are you enjoying it there?,it's not bad. there are a lot of people there.,are you enjoying it there
+20.0,it's not bad. there are a lot of people there.,good luck with that.,its not bad there are a lot of people there
+21.0,good luck with that.,thanks.,good luck with that
+22.0,how are you doing today?,i'm doing great. what about you?,how are you doing today
+23.0,i'm doing great. what about you?,"i'm absolutely lovely, thank you.",im doing great what about you
+24.0,"i'm absolutely lovely, thank you.",everything's been good with you?,im absolutely lovely thank you
+25.0,everything's been good with you?,i haven't been better. how about yourself?,everythings been good with you
+26.0,i haven't been better. how about yourself?,i started school recently.,i havent been better how about yourself
+27.0,i started school recently.,where are you going to school?,i started school recently
+28.0,where are you going to school?,i'm going to pcc.,where are you going to school
+29.0,i'm going to pcc.,how do you like it so far?,im going to pcc
+30.0,how do you like it so far?,i like it so far. my classes are pretty good right now.,how do you like it so far
+31.0,i like it so far. my classes are pretty good right now.,i wish you luck.,i like it so far my classes are pretty good right now
+32.0,it's an ugly day today.,i know. i think it may rain.,its an ugly day today
+33.0,i know. i think it may rain.,"it's the middle of summer, it shouldn't rain today.",i know i think it may rain
+34.0,"it's the middle of summer, it shouldn't rain today.",that would be weird.,its the middle of summer it shouldnt rain today
+35.0,that would be weird.,"yeah, especially since it's ninety degrees outside.",that would be weird
+36.0,"yeah, especially since it's ninety degrees outside.","i know, it would be horrible if it rained and it was hot outside.",yeah especially since its ninety degrees outside
+37.0,"i know, it would be horrible if it rained and it was hot outside.","yes, it would be. ",i know it would be horrible if it rained and it was hot outside
+38.0,"yes, it would be. ",i really wish it wasn't so hot every day. ,yes it would be 
+39.0,i really wish it wasn't so hot every day. ,me too. i can't wait until winter.,i really wish it wasnt so hot every day 
+40.0,me too. i can't wait until winter.,"i like winter too, but sometimes it gets too cold.",me too i cant wait until winter
+41.0,"i like winter too, but sometimes it gets too cold.",i'd rather be cold than hot.,i like winter too but sometimes it gets too cold
+42.0,i'd rather be cold than hot.,me too.,id rather be cold than hot
+43.0,it doesn't look very nice outside today.,you're right. i think it's going to rain later.,it doesnt look very nice outside today
+44.0,you're right. i think it's going to rain later.,"in the middle of the summer, it shouldn't be raining.",youre right i think its going to rain later
+45.0,"in the middle of the summer, it shouldn't be raining.",that wouldn't seem right.,in the middle of the summer it shouldnt be raining
+46.0,that wouldn't seem right.,"considering that it's over ninety degrees outside, that would be weird.",that wouldnt seem right
+47.0,"considering that it's over ninety degrees outside, that would be weird.","exactly, it wouldn't be nice if it started raining. it's too hot.",considering that its over ninety degrees outside that would be weird
+48.0,"exactly, it wouldn't be nice if it started raining. it's too hot.","i know, you're absolutely right.",exactly it wouldnt be nice if it started raining its too hot
+49.0,"i know, you're absolutely right.",i wish it would cool off one day.,i know youre absolutely right
+50.0,i wish it would cool off one day.,"that's how i feel, i want winter to come soon.",i wish it would cool off one day
+51.0,"that's how i feel, i want winter to come soon.","i enjoy the winter, but it gets really cold sometimes.",thats how i feel i want winter to come soon
+52.0,"i enjoy the winter, but it gets really cold sometimes.","i know what you mean, but i'd rather be cold than hot.",i enjoy the winter but it gets really cold sometimes
+53.0,"i know what you mean, but i'd rather be cold than hot.",that's exactly how i feel.,i know what you mean but id rather be cold than hot
+54.0,i wish it was a nicer day today.,that is true. i hope it doesn't rain.,i wish it was a nicer day today
+55.0,that is true. i hope it doesn't rain.,it wouldn't rain in the middle of the summer.,that is true i hope it doesnt rain
+56.0,it wouldn't rain in the middle of the summer.,it wouldn't seem right if it started raining right now.,it wouldnt rain in the middle of the summer
+57.0,it wouldn't seem right if it started raining right now.,it would be weird if it started raining in ninety degree weather.,it wouldnt seem right if it started raining right now
+58.0,it would be weird if it started raining in ninety degree weather.,any rain right now would be pointless.,it would be weird if it started raining in ninety degree weather
+59.0,any rain right now would be pointless.,"that's right, it really would be.",any rain right now would be pointless
+60.0,"that's right, it really would be.",i want it to cool down some.,thats right it really would be
+61.0,i want it to cool down some.,"i know what you mean, i can't wait until it's winter.",i want it to cool down some
+62.0,"i know what you mean, i can't wait until it's winter.",winter is great. i wish it didn't get so cold sometimes though.,i know what you mean i cant wait until its winter
+63.0,winter is great. i wish it didn't get so cold sometimes though.,i would rather deal with the winter than the summer.,winter is great i wish it didnt get so cold sometimes though
+64.0,it's such a nice day.,"yes, it is.",its such a nice day
+65.0,"yes, it is.",it looks like it may rain soon.,yes it is
+66.0,it looks like it may rain soon.,"yes, and i hope that it does.",it looks like it may rain soon
+67.0,"yes, and i hope that it does.",why is that?,yes and i hope that it does
+68.0,why is that?,i really love how rain clears the air.,why is that
+69.0,i really love how rain clears the air.,me too. it always smells so fresh after it rains.,i really love how rain clears the air
+70.0,me too. it always smells so fresh after it rains.,"yes, but i love the night air after it rains.",me too it always smells so fresh after it rains
+71.0,"yes, but i love the night air after it rains.",really? why is it?,yes but i love the night air after it rains
+72.0,really? why is it?,because you can see the stars perfectly.,really why is it
+73.0,because you can see the stars perfectly.,i really hope it rains today.,because you can see the stars perfectly
+74.0,i really hope it rains today.,"yeah, me too.",i really hope it rains today
+75.0,isn't it a nice day?,it really is.,isnt it a nice day
+76.0,it really is.,it seems that it may rain today.,it really is
+77.0,it seems that it may rain today.,hopefully it will.,it seems that it may rain today
+78.0,hopefully it will.,how come?,hopefully it will
+79.0,how come?,i like how clear the sky gets after it rains.,how come
+80.0,i like how clear the sky gets after it rains.,i feel the same way. it smells so good after it rains.,i like how clear the sky gets after it rains
+81.0,i feel the same way. it smells so good after it rains.,i especially love the night air when it rains.,i feel the same way it smells so good after it rains
+82.0,i especially love the night air when it rains.,really? why?,i especially love the night air when it rains
+83.0,really? why?,the stars look so much closer after it rains.,really why
+84.0,the stars look so much closer after it rains.,i really want it to rain today.,the stars look so much closer after it rains
+85.0,i really want it to rain today.,"yeah, so do i.",i really want it to rain today
+86.0,don't you think it's nice out?,"yes, i think so too.",dont you think its nice out
+87.0,"yes, i think so too.",i think that it's going to rain.,yes i think so too
+88.0,i think that it's going to rain.,i hope that it does rain.,i think that its going to rain
+89.0,i hope that it does rain.,you like the rain?,i hope that it does rain
+90.0,you like the rain?,the sky looks so clean after it rains. i love it.,you like the rain
+91.0,the sky looks so clean after it rains. i love it.,i understand. rain does make it smell cleaner.,the sky looks so clean after it rains i love it
+92.0,i understand. rain does make it smell cleaner.,i love most how it is at night after it rains.,i understand rain does make it smell cleaner
+93.0,i love most how it is at night after it rains.,how come?,i love most how it is at night after it rains
+94.0,how come?,you can see the stars so much more clearly after it rains.,how come
+95.0,you can see the stars so much more clearly after it rains.,i would love for it to rain today.,you can see the stars so much more clearly after it rains
+96.0,i really want to go to the beach this weekend.,that sounds like fun. what's the weather going to be like?,i really want to go to the beach this weekend
+97.0,that sounds like fun. what's the weather going to be like?,i heard that it's going to be warm this weekend.,that sounds like fun whats the weather going to be like
+98.0,i heard that it's going to be warm this weekend.,is it going to be perfect beach weather?,i heard that its going to be warm this weekend
+99.0,is it going to be perfect beach weather?,i believe so.,is it going to be perfect beach weather
+100.0,i believe so.,good. i hope it doesn't cool off this weekend.,i believe so
+,what is car,a car is made of engine and wheels basically that run on fuel ,
+,what is apple,it is a fruit ,
+,what is mango ,it is a fruit,
+,what is apricot,its an fruit,
+,what is a boat ,it is a vehicle,
+,how ar you ,i am fine ,
+,what is grapes,it a fruit,
+,whats your name?,My name is Chatbot,
+,what is banana,its a fruit,
+,what is anar,its a fruit,
+,what you want,knowledge,
+,what is pineapple,its a fruit,
+,what is dragon fruit,its a fruit,
+,what is oxygen,its a element,
+,what is sun,its a star,
+,bye,good bye,
